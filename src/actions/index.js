@@ -1,5 +1,4 @@
 import axios from "axios";
-import axios from "axios";
 export const FETCHING_SMURF_START = "FETCHING_SMURF_START";
 export const FETCHING_SMURF_SUCCESS = "FETCHING_SMURF_SUCCESS";
 export const FETCHING_SMURF_FAIL = "FETCHING_SMURF_FAIL";
